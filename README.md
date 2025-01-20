@@ -1,4 +1,4 @@
-# 👨🏽‍💻 Latryse Tavita
+# 🏌️‍♂️ Latryse Tavita
 
 **'Front-End Web Developer'**
 

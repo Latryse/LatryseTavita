@@ -1,6 +1,6 @@
 # 🏌️‍♂️ Latryse Tavita
 
-_Front-End Web Developer_
+***Front-End Web Developer***
 
 #
 
